@@ -95,7 +95,7 @@ Currently developing a full-stack railway website with frontend and backend func
 
 ## 🏅 Badges
 
-<div><a href="https://cloud.layer5.io/user/72d54467-6e96-4171-b3f2-ff406bda045f?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></div>
+<div><a href="https://cloud.layer5.io/user/72d54467-6e96-4171-b3f2-ff406bda045f?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 ---
 <div align="center">
