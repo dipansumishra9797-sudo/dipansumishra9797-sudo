@@ -49,7 +49,32 @@ Let's build something amazing! 🚀
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+---
 
+<!-- ================= WORKING ON ================= -->
+
+## 🚀 What I'm Working On
+
+<table>
+<tr>
+<td>
+
+🚆 *Full Stack Railway Website*
+
+Currently developing a full-stack railway website with frontend and backend functionality.
+
+</td>
+<td align="center">
+
+🔵 *In Progress*
+
+</td>
+</tr>
+</table>
+
+•⁠  ⁠🤖 *AI Integration* — Exploring AI-powered web applications.
+•⁠  ⁠🌱 *Open Source* — Learning and exploring open-source contributions.
+•⁠  ⁠💡 *Student-focused Solutions* — Building ideas that solve real-world problems.
 
 ---
 
